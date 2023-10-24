@@ -1,0 +1,7 @@
+pyautogen
+openai
+yfinance
+matplotlib
+langchain
+flaml
+pandas
