@@ -5,3 +5,10 @@ matplotlib
 langchain
 flaml
 pandas
+docker
+pypdf
+tiktoken
+chromadb
+python-dotenv
+IPython
+sentence_transformers
